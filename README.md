@@ -1,2 +1,3 @@
 # hello-world
-Initial GitHub repo for Paul
+
+Trying to understand how this new revision control system works.
